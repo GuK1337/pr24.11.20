@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_text">Логин:</string>
+    <string name="password_text">Пароль:</string>
+    <string name="button_text">Соединить строки</string>
+    <string name="loginpassword">%1$s %2$s</string>
+</resources>
